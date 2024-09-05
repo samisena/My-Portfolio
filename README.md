@@ -2,7 +2,15 @@
 
 ## About Me
 
-Data Scientist with a strong background in Bioengineering and Artificial Intelligence. Passionate about leveraging data to solve complex problems and drive insights, particularly in biological fields such as biomedical engineering, bioengineering, and pharmaceuticals.
+I am Data Scientist with a strong background in Bioengineering and Artificial Intelligence. Passionate about leveraging data to solve complex problems and drive insights, particularly in biological fields such as biomedical engineering, bioengineering, and pharmaceuticals.
+
+I was born in Morocco, I am proud to be able to call this place home. At 18years old, after the tragic death of my father, I decided to leave the family household and pursue my studies in England, studying Bioengineering.
+
+I was initially attracted to this field after coming accross fascinating videos of amputees being able to move the fingers of a robot arm using their thought alone. 
+
+As I progressed in my studies it became evident to me that AI was a big part of this technology, and most other biomedical devices. So I made the decision to pursue a Master's in AI to learn more about the mystic of Artificial Intelligence.
+
+As of writing these words I am in the process of completing my Master's Thesis in which I have set the aim to challenge the black-box nature of deep learning algorithms.
 
 ## Education
 
